@@ -11,13 +11,13 @@ __IMPORTANT NOTICE:__ The contents of this repository currectly reflect a __DRAF
 1. Introduction
 1. Additions to the Links Object
 1. The Eiffel Operations Extension Vocabulary
-   1. EiffelArtifactDeployedEvent
-   1. EiffelConfigurationOrderedEvent
-   1. EiffelConfigurationAppliedEvent
-   1. EiffelEnvironmentDiscontinuedEvent
-   1. EiffelServiceStartedEvent
-   1. EiffelServiceStoppedEvent
-   1. EiffelServicePausedEvent
-   1. EiffelServiceResumedEvent
+   1. EiffelArtifactDeployedEvent (ArtD)
+   1. EiffelConfigurationOrderedEvent (CO)
+   1. EiffelConfigurationAppliedEvent (CA)
+   1. EiffelEnvironmentTerminatedEvent (ET)
+   1. EiffelServiceStartedEvent (SStart)
+   1. EiffelServiceStoppedEvent (SStop)
+   1. EiffelServicePausedEvent (SPause)
+   1. EiffelServiceResumedEvent (SRes)
 1. Usage Examples
    1. To be added
